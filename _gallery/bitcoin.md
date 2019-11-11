@@ -1,0 +1,3 @@
+| Author |  Title | Image Url|Caption |Lisence Url|Lisence Text|Categories|Tags|
+| :---:  |  :---: | :---:    |:---:    |:---:      |:---:       |:---:     |:---:|
+| p14kair|Bitcoin| [Original Size](https://github.com/VaggelisKair/gr/blob/gh-pages/images/bitcoin.jpg) &nbsp; [Image 160px](https://github.com/VaggelisKair/gr/blob/gh-pages/images/bitcoin-thumb.jpg)| Bitcoin είναι ένα εναλλακτικό ψηφιακό νόμισμα το οποίο είναι εικονικό, δηλαδή δεν έχει χαρτονομίσματα ή κέρματα και λέγεται και κρυπτονόμισμα.  |[Link](https://pixabay.com/el/service/license/)|Pixabay Licence|Cryptocurrency|Online trade|
