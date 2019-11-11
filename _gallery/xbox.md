@@ -1,0 +1,3 @@
+| Author |  Title | Image Url|Caption |Lisence Url|Lisence Text|Categories|Tags|
+| :---:  |  :---: | :---:    |:---:    |:---:      |:---:       |:---:     |:---:|
+| p14kair|xbox| [Original Size](https://github.com/VaggelisKair/gr/blob/gh-pages/images/xbox.jpg) &nbsp; [Image 160px](https://github.com/VaggelisKair/gr/blob/gh-pages/images/xbox-thumb.jpg)| Η κατασκευάστρια Xbox, είναι υπό την επιτήρηση και αποτελεί τμήμα της Microsoft και κατασκευάζει, αναπτύσσει και παράγει την δική της οικιακή κονσόλα βιντεοπαιχνιδιών. Η ίδρυση του πραγματοποιήθηκε με την κυκλοφορία της πρώτης της προσπάθειας, τον Νοέμβριο του 2001 όταν και κυκλοφόρησε το πρώτης γενιάς Xbox. |[Link](https://pixabay.com/el/service/license/)|Pixabay Licence|Console|Entertainment|
