@@ -1,0 +1,3 @@
+| Author |  Title | Image Url|Caption |Lisence Url|Lisence Text|Categories|Tags|
+| :---:  |  :---: | :---:    |:---:    |:---:      |:---:       |:---:     |:---:|
+| p14kair| intelcpu| [Original Size](https://github.com/VaggelisKair/gr/blob/gh-pages/images/intelcpu.jpg) &nbsp; [Image 160px](https://github.com/VaggelisKair/gr/blob/gh-pages/images/intelcpu-thumb.jpg)| H Intel είναι ο μεγαλύτερος κατασκευαστής τσιπ ημιαγωγών στον κόσμο, με βάση τα έσοδα.[1] Η εταιρεία εισήγαγε την αρχιτεκτονική μικροεπεξεργαστών x86, που σήμερα χρησιμοποιείται σχεδόν στο σύνολο των προσωπικών υπολογιστών.|[Link](https://pixabay.com/el/service/license/)|Pixabay Licence|Computer Processors|Hardware|
